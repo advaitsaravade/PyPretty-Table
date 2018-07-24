@@ -10,7 +10,7 @@ Quite simple really. All of the code is in the `PrettyTable.py` file. If you wis
 ###### Download the `PrettyTable.py` file
 
 ```
-wget -O vfeed.db "https://raw.githubusercontent.com/advaitsaravade/PyPretty-Table/master/PrettyTable.py"
+wget -O PrettyTable.py "https://raw.githubusercontent.com/advaitsaravade/PyPretty-Table/master/PrettyTable.py"
 ```
 ###### Import the file into your Python script
 ```
