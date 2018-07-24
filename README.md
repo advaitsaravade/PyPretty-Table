@@ -7,15 +7,17 @@ A python script that takes in dictionaries and spits them out in visually organi
 
 Quite simple really. All of the code is in the `PrettyTable.py` file. If you wish you could just copy paste it directly.
 
-###### Download the `PrettyTable.py` file
+###### Download the PrettyTable.py file to your project folder
 
 ```
 wget -O PrettyTable.py "https://raw.githubusercontent.com/advaitsaravade/PyPretty-Table/master/PrettyTable.py"
 ```
+
 ###### Import the file into your Python script
 ```
 from PrettyTable import tablePrinter
 ```
+
 ###### Call the function
 ```
 listOfDict = [ { "Name":"Advait", "Website": "link.org" } , { "Name":"Alice" } ]
