@@ -11,11 +11,11 @@ Download the `PrettyTable.py` file or [click here for a direct link to the raw f
 Once saved, just pass it a dictionary, or list of dictionaries like so:
 
 ###### Import the file into your Python script
-`
+```
 from PrettyTable import tablePrinter
-`
+```
 ###### Call the function
-`
+```
 listOfDict = [ {"Name":"Advait", "StackLink": ""} , {"Name":"Alice"} ]
 tablePrinter(listOfDict)
-`
+```
