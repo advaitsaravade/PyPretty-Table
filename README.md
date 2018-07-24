@@ -33,3 +33,4 @@ from PrettyTable import tablePrinter
 listOfDict = [ { "Name":"Advait", "Website": "link.org" } , { "Name":"Alice" } ]
 tablePrinter(listOfDict)
 ```
+![Sample Function Output](out3.png)
