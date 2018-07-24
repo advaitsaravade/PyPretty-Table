@@ -16,6 +16,6 @@ from PrettyTable import tablePrinter
 ```
 ###### Call the function
 ```
-listOfDict = [ {"Name":"Advait", "StackLink": ""} , {"Name":"Alice"} ]
+listOfDict = [ {"Name":"Advait", "StackLink": "[https://stackoverflow.com/users/1860042/advait-s](https://stackoverflow.com/users/1860042/advait-s)"} , {"Name":"Alice"} ]
 tablePrinter(listOfDict)
 ```
